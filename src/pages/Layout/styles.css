@@ -1,0 +1,26 @@
+.liStyle {
+    color: white;
+    text-decoration: none;
+    margin-right: 35px;
+    transition: all 0.4s ease-in-out;
+
+}
+
+.liStyle:hover {
+    color: #c8cfe0;
+    text-decoration: underline;
+}
+
+.MenuItemStyle {
+    color: Black;
+    text-decoration: none;
+}
+
+.navLayout{
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #303030;
+    height: 70px;
+}
